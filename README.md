@@ -33,8 +33,8 @@
 
 ## بخش دروس ارشد
 - [لیست مقالات مورد تحقیق](https://github.com/mostafazare2008/seminar/tree/main/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA/Article)
-- [گزارش نسخه ورد](https://github.com/mostafazare2008/seminar)
-- [فایل ارائه](https://github.com/mostafazare2008/seminar)
+- [گزارش نسخه ورد](https://github.com/mostafazare2008/seminar/blob/main/%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C%20%D8%A8%D9%84%D8%A7%DA%A9%20%DA%86%DB%8C%D9%86%20%D8%AF%D8%B1%20%D8%AF%D9%86%DB%8C%D8%A7%DB%8C%20%D8%A7%D9%85%D8%B1%D9%88%D8%B2%DB%8C.docx)
+- [فایل ارائه](https://github.com/mostafazare2008/seminar/blob/main/%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C%20%D8%A8%D9%84%D8%A7%DA%A9%20%DA%86%DB%8C%D9%86%20%D8%AF%D8%B1%20%D8%AF%D9%86%DB%8C%D8%A7%DB%8C%20%D8%A7%D9%85%D8%B1%D9%88%D8%B2%DB%8C.pdf)
 - [نسخه پاورپوینت](https://github.com/mostafazare2008/seminar/tree/main/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA/Powerpoint)
 
 - [پیاده سازی]()
