@@ -28,8 +28,8 @@
 > ارزیابی ها
 
 ## بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه]()
-- [خلاصه ارزیابی بخش عمومی]()
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/mostafazare2008/PNU_3991_AR/blob/main/_General/MZ_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/mostafazare2008/PNU_3991_AR/blob/main/_General/MZ_GeneralSection_CheckList_AR_3991.pdf)
 
 ## بخش دروس ارشد
 - [لیست مقالات مورد تحقیق](https://github.com/mostafazare2008/seminar/tree/main/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA/Article)
