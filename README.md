@@ -38,7 +38,7 @@
 
 - [پیاده سازی]()
 
-- [ارزیابی سمینار](https://github.com/mohammadkad/PNU_3991_AR/blob/main/_General/MK_Seminar_Scoring_AR_3991.pdf)
+- [ارزیابی سمینار](https://github.com/mostafazare2008/seminar/blob/main/MK_Seminar_Scoring_AR_1400.pdf)
 
 ---------
 
